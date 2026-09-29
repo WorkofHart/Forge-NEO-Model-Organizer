@@ -1,0 +1,10 @@
+{
+  "name": "Forge NEO Model Organizer",
+  "version": "1.0.0",
+  "description": "A model organization and management extension for Stable Diffusion WebUI Forge NEO",
+  "author": "WorkofHart",
+  "repository": "https://github.com/WorkofHart/Forge-NEO-Model-Organizer",
+  "tags": ["model", "organizer", "forge-neo", "stable-diffusion"],
+  "install_script": "install.py",
+  "preload_script": "preload.py"
+}
